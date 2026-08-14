@@ -11,7 +11,7 @@ export default function App() {
             <main className="bg-[#FFF4DF] text-[#492F1E] flex flex-row pl-10 pb-20 pr-10 pt-10 ">
                 <section>
                     <div>
-                        <h1 className="text-4xl font-bold ">Sua cafeteria favorita!</h1>
+                        <h1 className="text-4xl font-bold">Sua cafeteria favorita!</h1>
                     </div>
                     <div>
                         <h4 className="text-[#492F1E] pt-5 ">
